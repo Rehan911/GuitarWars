@@ -19,10 +19,15 @@ body{
 .rowh3{
   height: 100px;
 }
-.c1{
+.navlinks{
   background-color: pink;
-  border: 2px solid skyblue;
-  border-radius: 20px;
+  /*border: 2px solid grey;*/
+  border-radius: 25px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 45px;
+  font-size: 16px;
 }
 .profilePic{
   width: 50px;
@@ -31,14 +36,14 @@ body{
 .player{
   text-decoration: none;
   font-size: 25px;
-  color: lightgreen;
+  color: black;
 }
 .playerScore{
-  border: 1px solid lightgreen;
+  border: 1px solid black;
   border-radius: 10px;
 }
 .playerScoreBox{
-  border: 2px solid lightgreen;
+  border: 2px solid black;
   border-radius: 10px;
 }
 .highScore{
@@ -46,7 +51,7 @@ body{
 }
 
 .addScoreBox{
-  border: 2px solid lightgreen;
+  border: 2px solid black;
   border-radius: 10px;
 
 }
@@ -55,23 +60,23 @@ body{
 }
 .tsize2{
   font-size: 18px;
-  border: 1px solid lightgreen;
+  border: 1px solid black;
 
 }
 .profileBox{
-  border: 2px solid lightgreen;
+  border: 2px solid black;
   border-radius: 10px;
 
 }
 .nav3{
   margin-top: 20px;
   margin-bottom: 20px;
-  border: 2px solid skyblue;
+  border: 2px solid black;
   border-radius: 10px;
   font-size: 28px;
   /*background-color: pink;*/
 }
 hr{
-  border-color: lightgreen;
+  border-color: black;
 }
 </style>

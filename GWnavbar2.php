@@ -12,12 +12,13 @@
 
           <ul class=" navbar-nav navbar-right nav ">
 
-            <li><a class="c1" href="GWprofile.php">My Profile</a></li>
-            <li><a class="c1" href="GWscoreboard">Leaderboard</a></li>
-            <li><a class="c1" href="GWplayers">Players</a></li>
+            <li><a class="navlinks" href="GWprofile.php">My Profile</a></li>
+            <li><a class="navlinks" href="GWscoreboard.php">ScoreBoard</a></li>
+            <!-- GWscoreboard.php -->
+            <li><a class="navlinks" href="GWplayers.php">Players</a></li>
 
-            <li><a class="c2" href="#">Contact</a></li>
-            <li><a class="c2" href="#">Help</a></li>
+            <li><a class="c2" href="http://service.igg.com/">Contact</a></li>
+            <li><a class="c2" href="http://forum.igg.com/">Help</a></li>
           </ul>
 
       </div>
